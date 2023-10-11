@@ -17,7 +17,7 @@ TBD
 ### [Armorer](https://modworkshop.net/mod/26195)
 TBD
 
-You can change these numbers to be whatever you want by editing the variables in **upgradestweakdata.lua**.
+You can change these numbers to be whatever you want by editing the variables in **upgradestweakdata.lua**. For context, I have also added comments next to each variable that briefly explain what it does and what its previous values were, both in the vanilla game and with the original mods, such as `HP regeneration per interval (originally 0; 0.03 with previous mods)`.
 ## Installation
 1. Install [DorHUD](https://modworkshop.net/mod/14267).
 2. Download the latest version of the mod from the [releases](https://github.com/questmatrix/hybrid-perk-deck/releases) page.
