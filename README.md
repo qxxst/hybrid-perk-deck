@@ -1,5 +1,5 @@
 # Hybrid Perk Deck
-A mod that provides a variety of buffs for *PAYDAY: The Heist*.
+A mod that provides multiple buffs for *PAYDAY: The Heist*.
 
 This mod combines and adjusts the effects of the other Perk Deck mods originally made by [Dr_Newbie](https://modworkshop.net/user/dr_newbie) and submitted to modworkshop.net. No copyright infringement is intended.
 ## Effects
