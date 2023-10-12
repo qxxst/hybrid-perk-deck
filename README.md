@@ -33,3 +33,5 @@ Muscle also gives an 80% boost to base HP, and regenerates 3% of it every 5 seco
 The goal of these changes, and my previous fork of the Muscle Perk Deck mod, is to allow for a passive health regeneration mechanic, as well as easier accumulation of new hostages via the random surrender mechanic, without completely trivializing gameplay as the original mod did.
 
 In the future, I would like to give different weapons different rates of intimidation. The lowered probability prevents automatic firearms from being overpowered, but also means that non-automatic firearms are extremely unlikely to trigger the effect. I also would like to prevent the Perk Deck from being able to intimidate special units like Bulldozers and Tasers.
+### Rogue
+TBD
