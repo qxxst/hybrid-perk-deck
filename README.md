@@ -22,15 +22,17 @@ You can change these numbers to be whatever you want by editing the variables in
 ## Design
 The issue with the original versions of these mods is that they used the exact same numbers from the *PAYDAY 2* Perk Decks without proper adjustments, resulting in them being disproportionately stronger and often trivializing gameplay in PD:TH.
 ### Muscle
-Previously, the Muscle Perk Deck gave each individual shot from firearms a 35% chance to make nearby enemies surrender. Both other users of the mod and myself found this rate to be absurdly high - especially with automatic weapons and/or weapons with a high rate of fire - so I reduced it to 0.1%. I also lowered its effective range.
+Previously, the Muscle perk deck gave each individual shot from firearms a 35% chance to make nearby enemies surrender. Both other users of the mod and myself found this rate to be absurdly high - especially with automatic weapons and/or weapons with a high rate of fire - so I reduced it to 0.1%. I also lowered its effective range.
 
 Muscle also gives an 80% boost to base HP, and regenerates 3% of it every 5 seconds. After taking into account survivability buffs from the other Perk Decks, I reduced the HP boost to 50% and updated the regeneration to be per-second instead of every 5 seconds (although the effective rate of regeneration is still the same).
 
 The goal of these changes, and my previous fork of the Muscle Perk Deck mod, is to allow for a passive health regeneration mechanic, as well as easier accumulation of new hostages via the random surrender mechanic, without completely trivializing gameplay as the original mod did.
 
-In the future, I would like to give different weapons different rates of intimidation. The lowered probability prevents automatic firearms from being overpowered, but also means that non-automatic firearms are extremely unlikely to trigger the effect. I also would like to prevent the Perk Deck from being able to intimidate special units like Bulldozers and Tasers.
+In the future, I would like to give different weapons different rates of intimidation. The lowered probability prevents automatic firearms from being overpowered, but also means that non-automatic firearms are extremely unlikely to trigger the effect. I also would like to prevent the Perk Deck from being able to intimidate special units like Bulldozers and Tasers, although this is also indirectly less likely to happen now since the overall rate was reduced.
 ### Rogue
-TBD
+The Rogue perk deck previously gave a 60% chance to ignore incoming damage. I reduced this to 15%.
+
+The only stat I have *increased* so far was the weapon swap speed, which is now 3x its original rate in the vanilla game. The previous version of the mod had this set to 1.8. I don't have a specific rationale for increasing this further other than it's fun and I like being able to swap between firearms quickly.
 ### Armorer
 I was interested in modifying the Armorer perk deck's invincibility period after your armor is broken, with the goal of using it as a mechanic to get out of tight situations. Unfortunately, I was unable to add it to this mod without the game crashing upon startup. This was also an issue with the original version of the mod.
 
