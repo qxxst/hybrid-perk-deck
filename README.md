@@ -33,3 +33,7 @@ The goal of these changes, and my previous fork of the Muscle Perk Deck mod, is 
 In the future, I would like to give different weapons different rates of intimidation. The lowered probability prevents automatic firearms from being overpowered, but also means that non-automatic firearms are extremely unlikely to trigger the effect. I also would like to prevent the Perk Deck from being able to intimidate special units like Bulldozers and Tasers.
 ### Rogue
 TBD
+### Armorer
+I was interested in modifying the Armorer perk deck's invincibility period after your armor is broken, with the goal of using it as a mechanic to get out of tight situations. Unfortunately, I was unable to add it to this mod without the game crashing upon startup. This was also an issue with the original version of the mod.
+
+I may give it another shot in the future, but right now I'm not sure how to fix whatever's wrong with it.
