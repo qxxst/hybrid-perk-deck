@@ -1,6 +1,9 @@
 local module = ... or D:module('hybrid_perk_deck')
 local PlayerDamage = module:hook_class("PlayerDamage")
 
+self._armorer_deck_inmune_run = 0
+self._armorer_deck_inmune_run_dt = 0
+
 function PlayerDamage:_upd_health_regen_muscle_deck(t, dt)
 	if not self:full_health() then
 		if self.__muscle_regen_hp_dt then
@@ -88,6 +91,10 @@ function PlayerDamage:_update_armorer_break_event(t, dt)
 				self._armorer_deck_inmune_run = 0
 				self._armorer_deck_inmune_run_dt = nil
 			end
+		end
+		if self._armorer_deck_immune_run ~= 0 and self._armorer_deck_inmune_run ~= 1 and self._armorer_deck_inmune_run ~= 2 and self._armorer_deck_inmune_run ~= 3 then
+			self._armorer_deck_inmune_run = 0
+			self._armorer_deck_inmune_run_dt = 0
 		end
 	end
 end
