@@ -16,7 +16,6 @@ end
 module:post_hook(PlayerStandard, "update", function(self, t, dt)
 	local damage = self._unit:character_damage()
 	if damage then
-		damage:_update_armorer_break_event(t, dt)
 		damage:_upd_health_regen_muscle_deck(t, dt)
 	end
 end, true)
