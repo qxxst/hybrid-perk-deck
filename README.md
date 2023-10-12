@@ -24,4 +24,4 @@ You can change these numbers to be whatever you want by editing the variables in
 3. Extract the zipped folder and move the **hybrid_perk_deck** folder to your PAYDAY The Heist\mods folder.
 4. Make sure the module is enabled in your mod manager settings.
 ## Design
-TBD
+The issue with the original versions of these mods is that they used the exact same numbers from the *PAYDAY 2* Perk Decks without proper adjustments, resulting in them being disproportionately stronger and often trivializing gameplay in PD:TH.
