@@ -13,11 +13,11 @@ When using this mod:
 - You have a 15% chance to ignore ("dodge") incoming damage.
 - You swap between firearms 200% faster.
 
-You can change these numbers to be whatever you want by editing the variables in **upgradestweakdata.lua**. For context, I have also added comments next to each variable that briefly explain what it does and what its previous values were, both in the vanilla game and with the original mods, such as `HP regeneration per interval (originally 0; 0.03 with previous mods)`.
+You can change these numbers to be whatever you want by editing the variables in `upgradestweakdata.lua`. For context, I have also added comments next to each variable that briefly explain what it does and what its previous values were, both in the vanilla game and with the original mods.
 ## Installation
 1. Install [DorHUD](https://modworkshop.net/mod/14267).
 2. Download the latest version of the mod from the [releases](https://github.com/questmatrix/hybrid-perk-deck/releases) page.
-3. Extract the zipped folder and move the **hybrid_perk_deck** folder to your PAYDAY The Heist\mods folder.
+3. Extract the zipped folder and move the `hybrid_perk_deck` folder to your PAYDAY The Heist\mods folder.
 4. Make sure the module is enabled in your mod manager settings.
 ## Design
 The issue with the original versions of these mods is that they used the exact same numbers from the *PAYDAY 2* Perk Decks without proper adjustments, resulting in them being disproportionately stronger and often trivializing gameplay in PD:TH.
