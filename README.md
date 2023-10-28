@@ -2,6 +2,10 @@
 A mod that provides multiple buffs for *PAYDAY: The Heist*.
 
 This mod combines and adjusts the effects of the other Perk Deck mods originally made by [Dr_Newbie](https://modworkshop.net/user/dr_newbie) and submitted to modworkshop.net. No copyright infringement is intended.
+## Disclaimer
+**THIS MOD IS A CHEAT.** It makes the game easier. Don't use it in public servers.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Effects
 When using this mod:
 ### [Muscle](https://modworkshop.net/mod/27990)
