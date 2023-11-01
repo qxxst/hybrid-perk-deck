@@ -2,7 +2,7 @@ local module = DMod:new("hybrid_perk_deck", {
 	abbr = "hybriddeck",
 	author = "questmatrix",
 	description = "https://github.com/questmatrix/hybrid-perk-deck",
-	version = "1.0"
+	version = "1.1"
 })
 
 module:hook_post_require("lib/units/beings/player/playerdamage", "playerdamage")

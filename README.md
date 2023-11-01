@@ -11,7 +11,7 @@ When using this mod:
 ### [Muscle](https://modworkshop.net/mod/27990)
 - You will have 50% extra base health.
 - You will passively regenerate 0.6% of your health every second.
-- Each shot from your firearms has a 0.1% chance of intimidating nearby enemies, forcing them to surrender.
+- Each shot from your firearms has a 0.2% chance of intimidating nearby enemies, forcing them to surrender.
   - You can then yell at them to cuff themselves like normal.
 ### [Rogue](https://modworkshop.net/mod/26078)
 - You have a 15% chance to ignore ("dodge") incoming damage.
@@ -26,7 +26,7 @@ You can change these numbers to be whatever you want by editing the variables in
 ## Design
 The issue with the original versions of these mods is that they used the exact same numbers from the *PAYDAY 2* Perk Decks without proper adjustments, resulting in them being disproportionately stronger and often trivializing gameplay in PD:TH.
 ### Muscle
-Previously, the Muscle perk deck gave each individual shot from firearms a 35% chance to make nearby enemies surrender. Both other users of the mod and myself found this rate to be absurdly high - especially with automatic weapons and/or weapons with a high rate of fire - so I reduced it to 0.1%. I also lowered its effective range.
+Previously, the Muscle perk deck gave each individual shot from firearms a 35% chance to make nearby enemies surrender. Both other users of the mod and myself found this rate to be absurdly high - especially with automatic weapons and/or weapons with a high rate of fire - so I reduced it to 0.2%. I also lowered its effective range.
 
 Muscle also gives an 80% boost to base HP, and regenerates 3% of it every 5 seconds. After taking into account survivability buffs from the other Perk Decks, I reduced the HP boost to 50% and updated the regeneration to be per-second instead of every 5 seconds (although the effective rate of regeneration is still the same).
 
