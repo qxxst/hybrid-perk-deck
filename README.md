@@ -26,7 +26,7 @@ You can change these numbers to be whatever you want by editing the variables in
 3. Extract the zipped folder and move the `hybrid_perk_deck` folder to your PAYDAY The Heist\mods folder.
 4. Make sure the module is enabled in your mod manager settings.
 ## Design
-The issue with the original versions of these mods is that they used the exact same numbers from the *PAYDAY 2* Perk Decks without proper adjustments, resulting in them being disproportionately stronger and often trivializing gameplay in PD:TH.
+The issue with the original versions of the Perk Deck mods is that they used the exact same numbers from the *PAYDAY 2* Perk Decks without proper adjustments, resulting in them being disproportionately stronger and often trivializing gameplay in PD:TH.
 ### Muscle
 Previously, the Muscle perk deck gave each individual shot from firearms a 35% chance to make nearby enemies surrender. Both other users of the mod and myself found this rate to be absurdly high - especially with automatic weapons and/or weapons with a high rate of fire - so I reduced it to 0.2%. I also lowered its effective range.
 
@@ -38,8 +38,10 @@ In the future, I would like to give different weapons different rates of intimid
 ### Rogue
 The Rogue perk deck previously gave a 60% chance to ignore incoming damage. I reduced this to 15%.
 
-The only stat I have *increased* so far was the weapon swap speed, which is now 3x its original rate in the vanilla game. The previous version of the mod had this set to 1.8. I don't have a specific rationale for increasing this further other than it's fun and I like being able to swap between firearms quickly.
+I actually *increased* the weapon swap speed, which is now 3x its original rate in the vanilla game. The previous version of the mod had this set to 1.8. I don't have a specific rationale for increasing this further other than it's fun and I like being able to swap between firearms quickly.
 ### Armorer
 I was interested in modifying the Armorer perk deck's invincibility period after your armor is broken, with the goal of using it as a mechanic to get out of tight situations. Unfortunately, I was unable to add it to this mod without the game crashing upon startup. This was also an issue with the original version of the mod.
 
 I may give it another shot in the future, but right now I'm not sure how to fix whatever's wrong with it.
+### Equipment
+TBD
