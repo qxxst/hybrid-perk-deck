@@ -25,6 +25,7 @@ You can change these numbers to be whatever you want by editing the variables in
 2. Download the latest version of the mod from the [releases](https://github.com/questmatrix/hybrid-perk-deck/releases) page.
 3. Extract the zipped folder and move the `hybrid_perk_deck` folder to your PAYDAY The Heist\mods folder.
 4. Make sure the module is enabled in your mod manager settings.
+5. After enabling the module, restart your game for the change to take effect.
 ## Design
 The issue with the original versions of the Perk Deck mods is that they used the exact same numbers from the *PAYDAY 2* Perk Decks without proper adjustments, resulting in them being disproportionately stronger and often trivializing gameplay in PD:TH.
 ### Muscle
