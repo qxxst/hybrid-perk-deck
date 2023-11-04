@@ -17,7 +17,7 @@ When using this mod:
 - You have a 15% chance to ignore ("dodge") incoming damage.
 - You swap between firearms 200% faster.
 ### Equipment
-- The Toolkit now provides significantly higher bonuses to interaction speed (12.5% to 50% based on its upgrade level). This does not apply when using other equipment.
+- The Toolkit now provides significantly higher bonuses to interaction speed (12.5% per upgrade level, up to 50% at level 4). This does not apply when using other equipment.
 
 You can change these numbers to be whatever you want by editing the variables in `upgradestweakdata.lua`. For context, I have also added comments next to each variable that briefly explain what it does and what its previous values were, both in the vanilla game and with the previous versions of the mods (when applicable).
 ## Installation
