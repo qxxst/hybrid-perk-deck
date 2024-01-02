@@ -20,7 +20,7 @@ When using this mod:
 You can change these numbers to be whatever you want by editing the variables in `upgradestweakdata.lua`. For context, I have also added comments next to each variable that briefly explain what it does and what its previous values were, both in the vanilla game and with the original mods.
 ## Installation
 1. Install [DorHUD](https://modworkshop.net/mod/14267).
-2. Download the latest version of the mod from the [releases](https://github.com/questmatrix/hybrid-perk-deck/releases) page.
+2. Download the latest version of the mod from the [releases](https://github.com/qxxst/hybrid-perk-deck/releases) page.
 3. Extract the zipped folder and move the `hybrid_perk_deck` folder to your PAYDAY The Heist\mods folder.
 4. Make sure the module is enabled in your mod manager settings.
 ## Design
